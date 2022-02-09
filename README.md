@@ -1,25 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Elkin Murillo Medellin (Colombia)</h1>
+<h3 align="center">Programador Backend apasionado por la tecnología, interactuando así con la lógica de los programas dando soluciones a las acciones solicitadas en diferentes lenguajes de programación y framework, Mis principales lenguajes/plataformas de programación son: JavaScript,Node.js, PHP ,Laravel y en el manejo de SQL, MySQL.</h3>
 
-# Welcome
-<img height='400' src="https://media-exp1.licdn.com/dms/image/C5622AQFEY7Mvd9llEw/feedshare-shrink_2048_1536/0/1644376022852?e=1647475200&v=beta&t=f_dDc8V_BbRQB6N0W3vtLrsBgI2gGBDL2MZ7-obBWcY" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rammsteinlion&label=Profile%20views&color=0e75b6&style=flat" alt="rammsteinlion" /> </p>
 
-Software developer
-### Backend programmer in charge of the logic and solutions for all the requested actions, management of different programming languages and framework. Database management.
+- 🌱 I’m currently learning **Laravel,JavaScript**
 
+- 📫 How to reach me **rastaw28@gmail.com**
 
-**Languages and Tools:**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/elkindev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elkindev/" height="30" width="40" /></a>
+<a href="https://discord.gg/emurillo#3074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emurillo#3074" height="30" width="40" /></a>
+</p>
 
-<code><img height="55" src="https://img.icons8.com/color/48/000000/php.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rammsteinlion&show_icons=true&locale=en&layout=compact" alt="rammsteinlion" /></p>
 
-# Framework
-<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rammsteinlion&show_icons=true&locale=en" alt="rammsteinlion" /></p>
 
-
-## Social media :
-<a href="https://www.linkedin.com/in/elkindev/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rammsteinlion&" alt="rammsteinlion" /></p>
