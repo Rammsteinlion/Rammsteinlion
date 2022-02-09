@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 # Bienvenido
-![](https://www.muycomputerpro.com/zona-ticjob/wp-content/uploads/2019/04/CABECERA-ARTICULO-BACK.jpg)
+![](https://drive.google.com/file/d/1vdTSEqPEAiMW4kZwtAK9TT6C8GGnu6v1/view?usp=sharing)
 Desarrollador de software 
