@@ -14,7 +14,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="[https://vuejs.org/](https://flutter.dev/)" target="_blank" rel="noreferrer">
+<p align="left">  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/96/typescript.png" alt="typescript" width="40" height="40"/>
+</a>  
+ 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/96/tailwindcss.png" alt="tailwindcss" width="40" height="40"/>
+</a>  
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/48/external-github-social-media-tanah-basah-basic-outline-tanah-basah.png" alt="tailwindcss" width="40" height="40"/>
+</a>   <a href="[https://vuejs.org/](https://flutter.dev/)" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/96/flutter.png" alt="Vue.js" width="40" height="40"/>
 </a>   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/96/vue-js.png" alt="Vue.js" width="40" height="40"/>
