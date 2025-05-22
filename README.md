@@ -9,9 +9,10 @@ Full Stack Developer | Passionate about backend logic and frontend experiences
 
 ### 👨‍💻 About Me
 
-- 💻 I'm a **Full Stack Developer** with a strong focus on **backend development**
-- 🧠 I love solving problems through **logical thinking and efficient code**
-- 🌱 Currently improving my skills in **Laravel** and **JavaScript**
+- 💻 I'm a **Full Stack Developer** with solid experience in both frontend and backend technologies
+- 🧠 I specialize in building **robust backend systems** and crafting **intuitive frontend interfaces**
+- 🚀 My core stack includes **Laravel**, **TypeScript**, and **Vue.js**
+- 🌱 Currently deepening my expertise in **TypeScript** and modern architectural patterns
 - 📫 Reach me at **rastaw28@gmail.com**
 
 ---
