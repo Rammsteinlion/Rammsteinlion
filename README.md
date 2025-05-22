@@ -1,7 +1,26 @@
 <h1 align="center">Hi 👋, I'm Elkin Murillo Medellín (Colombia)</h1>
-<h3 align="center">
-Full Stack Developer | Passionate about backend logic and frontend experiences
-</h3>
+## 🚀 Desarrollador Full Stack con enfoque en Frontend
+
+Soy un apasionado desarrollador con sólidos conocimientos en tecnologías frontend y backend, especializado en crear interfaces de usuario atractivas y funcionales con arquitecturas robustas.
+
+### 💻 Stack Tecnológico Principal:
+
+**Frontend:**
+- ✔️ Vue.js (Composition API, Vuex, Vue Router)  
+- ✔️ TypeScript + JavaScript (ES6+)  
+- ✔️ Tailwind CSS (Diseño responsive y utility-first)  
+- ✔️ HTML5 semántico + CSS3 moderno (Grid, Flexbox)  
+
+**Backend:**  
+- ✔️ PHP (OOP, Patrones de diseño)  
+- ✔️ Laravel (Eloquent, Blade, Artisan)  
+- ✔️ MySQL (Diseño de bases de datos, consultas complejas)  
+
+**Herramientas:**  
+- ✔️ Git/GitHub (Control de versiones)  
+- ✔️ Docker (Entornos containerizados)  
+- ✔️ APIs RESTful (Consumo y desarrollo)  
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rammsteinlion&label=Profile%20views&color=0e75b6&style=flat" alt="rammsteinlion" />
