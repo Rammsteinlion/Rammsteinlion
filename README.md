@@ -53,8 +53,7 @@
 
 **Herramientas Esenciales:**  
 - ✔️ **Git/GitHub** (Flujo de trabajo profesional)  
-- ✔️ **APIs RESTful** (Diseño y consumo)  
-- ✔️ **Docker** (Entornos containerizados)  
+- ✔️ **APIs RESTful** (Diseño y consumo)
 
 ---
 
